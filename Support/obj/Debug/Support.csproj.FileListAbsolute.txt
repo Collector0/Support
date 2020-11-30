@@ -1,0 +1,10 @@
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\bin\Debug\Support.exe.config
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\bin\Debug\Support.exe
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\bin\Debug\Support.pdb
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.csprojAssemblyReference.cache
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.Form1.resources
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.Properties.Resources.resources
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.exe
+C:\Users\yasse\Desktop\Study\Prof Moudni\Support\Support\obj\Debug\Support.pdb
