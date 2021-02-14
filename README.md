@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn4.iconfinder.com/data/icons/flat-colored-borderless-file-formats/256/file_format_48-512.png">
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png">
 
 # Integrate data access into the client in connected mode :
 
